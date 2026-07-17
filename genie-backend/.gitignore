@@ -34,3 +34,5 @@ build/
 .vscode/
 
 .flattened-pom.xml
+src/main/resources/application.yml
+genie-backend_startup.log
